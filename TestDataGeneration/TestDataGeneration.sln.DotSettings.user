@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files\dotnet\packs\Microsoft.NETCore.App.Ref\3.1.0\ref\netcoreapp3.1\System.Runtime.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=963abe25_002D17e5_002D47b1_002Dbb38_002D722c43ab0e26/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ReadEmail" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::58735D8D-2B2E-4C9F-923B-7E916B817A7F::.NETCoreApp,Version=v3.1::TestDataGeneration.TestData.ReadEmail&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::58735D8D-2B2E-4C9F-923B-7E916B817A7F::.NETCoreApp,Version=v3.1::TestDataGeneration.TestData.GetTestData&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
